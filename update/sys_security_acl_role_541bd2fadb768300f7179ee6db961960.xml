@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>lewis.chi@snc</sys_created_by>
+        <sys_created_on>2017-12-06 19:27:18</sys_created_on>
+        <sys_id>541bd2fadb768300f7179ee6db961960</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_testing_app_category.sn_testing_app.user</sys_name>
+        <sys_package display_value="Testing App" source="sn_testing_app">f9e952badb768300f7179ee6db96194d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Testing App">f9e952badb768300f7179ee6db96194d</sys_scope>
+        <sys_security_acl display_value="sn_testing_app_category">5c1bd2fadb768300f7179ee6db96195d</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_541bd2fadb768300f7179ee6db961960</sys_update_name>
+        <sys_updated_by>lewis.chi@snc</sys_updated_by>
+        <sys_updated_on>2017-12-06 19:27:18</sys_updated_on>
+        <sys_user_role display_value="sn_testing_app.user" name="sn_testing_app.user">c2e9d2badb768300f7179ee6db9619e9</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

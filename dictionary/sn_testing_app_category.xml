@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Category" max_length="40" name="sn_testing_app_category" type="collection"/>
+</database>
