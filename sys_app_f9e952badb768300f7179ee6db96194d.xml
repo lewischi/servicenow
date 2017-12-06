@@ -23,14 +23,14 @@
         <sys_created_by>lewis.chi@snc</sys_created_by>
         <sys_created_on>2017-12-06 19:22:14</sys_created_on>
         <sys_id>f9e952badb768300f7179ee6db96194d</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_updated_by>lewis.chi@snc</sys_updated_by>
-        <sys_updated_on>2017-12-06 19:22:14</sys_updated_on>
+        <sys_updated_on>2017-12-06 19:28:33</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <user_role display_value="sn_testing_app.user" name="sn_testing_app.user">c2e9d2badb768300f7179ee6db9619e9</user_role>
         <vendor/>
         <vendor_prefix/>
-        <version>1.0.0</version>
+        <version>1.0.1</version>
     </sys_app>
 </record_update>
